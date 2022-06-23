@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">dectection_features</string>
+    <string name="focus">Focus</string>
+    <string name="pinch_to_zoom">Pinch to Zoom</string>
+    <string name="processing">Proessing</string>
+    <string name="capture">Capture</string>
+    <string name="gallery">Gallery</string>
+    <string name="history">History</string>
+    <string name="torch">Torch</string>
+</resources>

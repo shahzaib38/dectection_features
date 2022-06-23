@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#6200EE</color>
+    <color name="colorPrimaryDark">#3700B3</color>
+    <color name="colorAccent">#03DAC5</color>
+    <color name="white">#FFFFFF</color>
+    <color name="black">#000000</color>
+    <color name="ok_button_pressed">#FF8A65</color>
+    <color name="scan_image_color" >@color/white</color>
+    <color name="gray_50">#80836F6F</color>
+    <color name="gray">#836F6F</color>
+    <color name="icon_pressed">#FF8A65</color>
+    <color name="gnt_blue">#329CCC</color>
+    <color name="red_color">#FF8A65</color>
+    <color name="black_transparent">#40000000</color>
+    <color name="brown_color">#200D0B</color>
+    <color name="gray_20">#33836F6F</color>
+    <color name="light_gray">#E5E5E5</color>
+    <color name="light_blue">#0095FD</color>
+    <color name="divider_color">#4D909093</color>
+    <color name="button_pressed_color">#4DD0E1</color>
+    <color name="Red">#FFFFFF</color>
+
+</resources>
